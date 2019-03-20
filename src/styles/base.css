@@ -39,8 +39,6 @@ h2 {
 }
 
 .my-jumbotron-slogan {
-    margin-left: 30%;
-    margin-right: 30%;
     position: relative;
     color: white;
     background: rgba(0,0,0,0.4);
@@ -60,7 +58,7 @@ h2 {
     content: '';
     display: block;
     border: 1px solid #ffc107;
-    width: 500px;
+    width: 50%;
     margin: 30px auto;
 }
 

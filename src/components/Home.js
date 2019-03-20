@@ -8,9 +8,11 @@ render(){
             <div className="myWork">
                 <div className="jumbotron jumbotron-fluid my-jumbotron d-flex align-items-center">
                     <div className="container text-center my-jumbotron-slogan">
-                        <h1 className="titleMain">Bartosz Skowronek</h1>
-                        <h2>Full-Stack .NET Developer</h2>
-                        <h2>I <p className="heart">❤</p> coding!</h2>
+                        <div className="col-lg-12 col-md-12 col-sm-12 float-left">
+                            <h1 className="titleMain">Bartosz Skowronek</h1>
+                            <h2>Full-Stack .NET Developer</h2>
+                            <h2>I <p className="heart">❤</p> coding!</h2>
+                        </div>
                     </div>
             </div>
 
@@ -62,8 +64,6 @@ render(){
                     </div>
                 </div>
             </div>
-
-            <h2 className="my-mission-text"></h2>
 
             <div className="container white">
                 <div className="row justify-content-center my-5">
