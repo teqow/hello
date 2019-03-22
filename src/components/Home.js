@@ -27,7 +27,7 @@ render(){
                     </div>
                 </div>
                 <div className="row justify-content-center my-5">
-                    <div className="col-sm-12 col-md-4 text-center">
+                    <div className="col-sm-12 col-md-4">
                         <div className="my-mission-background-icon mx-auto mb-4">
                         </div>
                         <h2>Software Development</h2>
@@ -40,7 +40,7 @@ render(){
                                 <li className="card-text">Patterns and good practice</li>                      
                             </ul>
                     </div>
-                    <div className="col-sm-12 col-md-4 text-center">
+                    <div className="col-sm-12 col-md-4">
                         <div className="my-mission-background-icon mx-auto mb-4">
                         </div>
                         <h2>Electronics</h2>
@@ -51,7 +51,7 @@ render(){
                                 </li>
                             </ul>
                     </div>
-                    <div className="col-sm-12 col-md-4 text-center">
+                    <div className="col-sm-12 col-md-4">
                         <div className="my-mission-background-icon mx-auto mb-4">
                         </div>
                         <h2>My work</h2>

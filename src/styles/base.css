@@ -63,7 +63,7 @@ h2 {
 }
 
 .card-block {
-    margin-left: 35px;
+    padding-inline-start: 25px !important;
 }
 
 .card-text {
